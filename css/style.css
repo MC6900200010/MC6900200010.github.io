@@ -1,0 +1,12 @@
+
+div {
+
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    
+}
